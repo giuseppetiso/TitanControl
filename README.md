@@ -1,11 +1,4 @@
 # TitanControl
-Nome versione da usare
-
-Ti consiglio di usare questo nome ufficiale:
-
-TitanControl V3.1
-
-Se vuoi essere più formale nella release GitHub:
 
 TitanControl V3.1 – Stable Release
 
