@@ -4,7 +4,7 @@ TitanControl V3.1 – Stable Release
 
 Descrizione del programma
 
-Ti lascio una descrizione pronta, pulita.
+
 
 Descrizione breve
 
