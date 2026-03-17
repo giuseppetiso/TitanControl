@@ -35,7 +35,7 @@ controllo aggiornamenti, download e installazione update
 
 Funzioni da elencare nella release
 
-Queste sono le funzioni che devi dichiarare come presenti in TitanControl V3.1:
+
 
 GUI dedicata alla macchina Titan
 
