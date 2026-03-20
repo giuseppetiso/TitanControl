@@ -1,78 +1,71 @@
 # TitanControl
 
-TitanControl V3.1 – Stable Release
+Software di controllo per taglio CNC a filo caldo
 
-Descrizione del programma
+**TitanControl** è un software desktop per il controllo di macchine CNC a filo caldo, progettato per offrire un'interfaccia semplice, chiara e adatta sia all’uso personale sia alla distribuzione a clienti finali.
 
+## Funzioni principali
 
+- Connessione **Seriale**
+- Connessione **Wi-Fi**
+- Modalità **Virtuale** per usare il programma anche senza macchina collegata
+- Gestione e caricamento file **G-code**
+- Anteprima area di lavoro con posizione macchina
+- Controllo manuale assi
+- Gestione parametri di taglio
+- Controllo filo caldo
+- Camera integrata
+- Sistema di **aggiornamenti automatici**
+- Interfaccia in italiano
 
-Descrizione breve
+## Installazione
 
-TitanControl V3.1 è il software di controllo per la taglierina a filo caldo Titan, con interfaccia grafica dedicata, gestione macchina via rete, controllo filo caldo, camera integrata, preset materiali e sistema aggiornamenti.
+Per installare TitanControl scarica l’ultima versione dalla sezione **Releases** di questo repository.
 
-Descrizione completa
+File da usare per l’installazione:
 
-TitanControl V3.1 è una GUI sviluppata per la gestione della macchina Titan basata su MKS DLC32 / ESP32-WEB, pensata per il taglio a filo caldo di materiali espansi.
-Il software integra controllo macchina, gestione del filo caldo, preview del percorso, movimento manuale degli assi, camera, registrazione video, preset materiali e sistema di aggiornamento software.
+`TitanControl_Setup_x.x.xx.exe`
 
-Funzioni principali
+Dopo il download:
+1. avvia il file `.exe`
+2. segui la procedura guidata
+3. scegli se creare l’icona sul desktop
+4. completa l’installazione
 
-controllo macchina via rete
+## Aggiornamenti
 
-avvio job di taglio
+TitanControl supporta il controllo aggiornamenti direttamente dal programma.
 
-gestione filo caldo con indicatore visivo
+Percorso:
+**Aiuto > Aggiornamenti**
 
-jog manuale assi X/Y
+Da qui è possibile:
+- verificare la presenza di nuove versioni
+- scaricare e installare gli aggiornamenti
+- aprire la pagina release
+- leggere le note versione
 
-preview percorso
+## Requisiti
 
-camera integrata con registrazione
+- Windows 10 / 11
+- Connessione seriale oppure Wi-Fi per il collegamento macchina
+- Macchina compatibile con il flusso operativo previsto da TitanControl
 
-preset materiali per diversi spessori
+## Stato del progetto
 
-controllo aggiornamenti, download e installazione update
+TitanControl è in continua evoluzione con l’obiettivo di diventare una soluzione stabile, professionale e pronta per la distribuzione.
 
-Funzioni da elencare nella release
+## Download
 
+Le versioni ufficiali vengono pubblicate nella sezione **Releases** del repository.
 
+## Note
 
-GUI dedicata alla macchina Titan
+Questo repository viene usato come riferimento per:
+- versioni ufficiali
+- aggiornamenti del programma
+- distribuzione delle release pubbliche
 
-controllo assi X/Y
+---
 
-comando filo caldo ON/OFF
-
-indicatore rosso filo acceso
-
-caricamento G-code
-
-esecuzione job
-
-spegnimento filo corretto a fine lavoro
-
-ritorno a zero controllato
-
-camera con registrazione video
-
-preset materiali:
-
-EPS
-
-XPS
-
-Depron
-
-Foam generico
-
-Alta densità
-
-spessori da 1 cm a 5 cm
-
-aggiornamenti software:
-
-controlla aggiornamenti
-
-scarica aggiornamento
-
-installa aggiornamento
+**Sviluppato da giuseppetiso**
